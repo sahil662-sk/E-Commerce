@@ -46,7 +46,7 @@ Bash
 npm run dev
 # or
 yarn dev
-📦** Deployment**
+📦 Deployment
 This project is configured for seamless continuous deployment with Vercel:
 
 1.Push your changes to your GitHub repository.
@@ -55,10 +55,10 @@ This project is configured for seamless continuous deployment with Vercel:
 
 3.Vercel automatically builds and deploys your updates!
 
-🤝 **Contributing**
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check out the issues page if you want to contribute.
 
-📄 **License**
+📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
